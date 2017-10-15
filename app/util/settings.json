@@ -1,0 +1,5 @@
+{
+  "filename" : "fakeLogGenerator.log",
+  "level" : "debug",
+  "interval" : 10000
+}

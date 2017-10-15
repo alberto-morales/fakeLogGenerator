@@ -1,0 +1,25 @@
+{
+  "name": "fakeLogGenerator",
+  "version": "0.0.1",
+  "description": "Fake log generator utility",
+  "bugs": {
+    "url": "https://github.com/alberto-morales/fakeLogGenerator/issues",
+    "email": "mail@albertomorales.eu"
+  },
+  "license": "LGPL-3.0",
+  "author": "Alberto Morales <mail@albertomorales.eu> - http://albertomorales.eu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alberto-morales/fakeLogGenerator"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "charlatan": "^1.1.0",
+    "simple-node-logger": "^0.93.30",
+    "debug": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "main": "app/app.js"
+}
